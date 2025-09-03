@@ -1,1 +1,1 @@
-# najilulbarokah.github.io
+# Hello :wave: My name's Najilul Barokah (李璐). I completed my master degree at the [School of Artificial Intelligence and Automation, Huazhong University of Science and Technology (HUST)](https://aia.hust.edu.cn/index.htm), advised by [Prof. Huang Jian](https://aia.hust.edu.cn/info/1213/7282.htm).
